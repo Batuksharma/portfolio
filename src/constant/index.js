@@ -169,25 +169,25 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Batuk proved me wrong.",
-      name: "Sara Lee",
+      name: "Brandi lee",
       designation: "CFO",
-      company: "Acme Co",
+      company: "Corp Co",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like Batuk does.",
-      name: "Chris Brown",
+      name: "Liam Hemsworth",
       designation: "COO",
-      company: "DEF Corp",
+      company: "FIG Inc.",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
         "After Batuk optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+      name: "Misa Specter",
       designation: "CTO",
-      company: "456 Enterprises",
+      company: "Angela Industries",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
